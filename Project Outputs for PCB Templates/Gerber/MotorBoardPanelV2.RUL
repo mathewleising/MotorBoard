@@ -1,8 +1,8 @@
 DRC Rules Export File for PCB: C:\Users\mtleising\Dropbox (Personal)\Senior Design\AltiumPCBProjectTemplate\MotorBoard\PCB\MotorBoardPanelV2.PcbDoc
-RuleKind=Clearance|RuleName=ClearanceViaPad|Scope=Board|Minimum=3.94
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
-RuleKind=Clearance|RuleName=ClearanceTechnology|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=WidthTechnology|Scope=Board|Minimum=6.30
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=ClearanceGNDpolygons|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=WidthTechnology|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=ClearanceTechnology|Scope=Board|Minimum=7.87
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=ClearanceViaPad|Scope=Board|Minimum=3.94

@@ -325,6 +325,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document18]
+DocumentPath=MotorBoardHighRes.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ETTYGLFI
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MotorBoardPanelV2.DRR
 DItemRevisionGUID=
@@ -358,90 +375,82 @@ DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MotorBoardPanelV2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for PCB Templates\NC Drill\MotorBoardPanelV2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Free Documents\Gerber\MotorBoardPanelV2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for PCB Templates\Gerber\MotorBoardPanelV2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Free Documents\NC Drill\MotorBoardPanelV2.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for PCB Templates\NC Drill\MotorBoardPanelV2.TXT
 DItemRevisionGUID=
 

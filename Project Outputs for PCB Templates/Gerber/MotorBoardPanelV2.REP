@@ -7,8 +7,6 @@ Generating : Top
 
     Adding Layer      : Top
 
-    Adding Layer      : Outline
-
     Adding Layer      : Multi-Layer
 
 
@@ -35,7 +33,6 @@ Used DCodes :
     D29
     D30
     D31
-    D32
 *************************************************************
 
 *************************************************************
@@ -43,8 +40,6 @@ Generating : Bottom
       File : MotorBoardPanelV2.GBL
 
     Adding Layer      : Bottom
-
-    Adding Layer      : Outline
 
     Adding Layer      : Multi-Layer
 
@@ -66,7 +61,6 @@ Used DCodes :
     D29
     D30
     D31
-    D32
 *************************************************************
 
 *************************************************************
@@ -75,35 +69,13 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Outline
-
 
 Used DCodes :
     D16
-    D18
+    D32
     D33
     D34
     D35
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : MotorBoardPanelV2.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Top
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D18
 *************************************************************
 
 *************************************************************
@@ -112,17 +84,14 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Outline
-
     Adding Layer      : Top
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D18
-    D26
+    D11
+    D25
     D36
     D37
     D38
@@ -146,16 +115,13 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Outline
-
     Adding Layer      : Bottom
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D18
-    D26
+    D25
     D38
     D39
     D40
@@ -172,33 +138,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : MotorBoardPanelV2.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Bottom
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : MotorBoardPanelV2.GBO
 
     Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Outline
-
 
 Used DCodes :
-    D18
 *************************************************************
 
 *************************************************************
@@ -207,18 +153,14 @@ Generating : Outline
 
     Adding Layer      : Outline
 
-    Adding Layer      : Outline
-
 
 Used DCodes :
-    D18
+    D34
 *************************************************************
 
 *************************************************************
 Generating : Drill Drawing
       File : MotorBoardPanelV2.GD1
-
-    Adding Layer      : Outline
 
     Adding Drill Pair : Bottom-Top
 
@@ -226,17 +168,12 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D18
     D51
-    D52
-    D53
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
       File : MotorBoardPanelV2.GG1
-
-    Adding Layer      : Outline
 
     Adding Drill Pair : Bottom-Top
 
@@ -244,7 +181,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D18
     D51
 *************************************************************
 

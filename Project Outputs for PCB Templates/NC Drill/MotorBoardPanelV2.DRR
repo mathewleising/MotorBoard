@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: MotorBoardPanelV2.PcbDoc   2/18/2015  4:46:23 PM
+NCDrill File Report For: MotorBoardPanelV2.PcbDoc   2/24/2015  1:14:14 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -7,17 +7,16 @@ ASCII RoundHoles File : MotorBoardPanelV2.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.3mm (11.811mil)        Round          88               439.73 mm (17.31 Inch)
-T2        0.55mm (21.654mil)       Round          10               151.41 mm (5.96 Inch)
-T3        0.6mm (23.622mil)        Round          76               572.99 mm (22.56 Inch)
-T4        0.7mm (27.559mil)        Round          56               509.15 mm (20.05 Inch)
-T5        0.88mm (34.646mil)       Round          6                52.08 mm (2.05 Inch)
-T6        0.9mm (35.433mil)        Round          28               177.82 mm (7.00 Inch)
-T7        1mm (39.37mil)           Round          4                106.00 mm (4.17 Inch)
-T8        1.5mm (59.055mil)        Round          6                56.26 mm (2.22 Inch)
-T9        1.8mm (70.866mil)        Round          4                53.60 mm (2.11 Inch)
-T10       3.2mm (125.984mil)       Round          4                179.28 mm (7.06 Inch)
+T1        12mil (0.3048mm)         Round          88               17.32 Inch (439.89 mm)
+T2        22mil (0.5588mm)         Round          10               5.96 Inch (151.41 mm)
+T3        24mil (0.6096mm)         Round          76               22.56 Inch (572.99 mm)
+T4        28mil (0.7112mm)         Round          56               20.05 Inch (509.15 mm)
+T5        35mil (0.889mm)          Round          34               9.10 Inch (231.10 mm)
+T6        39mil (0.9906mm)         Round          4                4.17 Inch (106.00 mm)
+T7        59mil (1.4986mm)         Round          6                2.22 Inch (56.26 mm)
+T8        71mil (1.8034mm)         Round          4                2.11 Inch (53.60 mm)
+T9        126mil (3.2004mm)        Round          4                7.06 Inch (179.28 mm)
 ---------------------------------------------------------------------------
-Totals                                            282              2298.32 mm (90.49 Inch)
+Totals                                            282              90.54 Inch (2299.69 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00
